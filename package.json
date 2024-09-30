@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/material-ui5#readme",
+  "homepage": "https://github.com/common-intellisense/material-ui#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/material-ui5.git"
+    "url": "git+https://github.com/common-intellisense/material-ui.git"
   },
-  "bugs": "https://github.com/common-intellisense/material-ui5/issues",
+  "bugs": "https://github.com/common-intellisense/material-ui/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
